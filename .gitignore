@@ -218,3 +218,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+venv/
+.env
+/data
+mlruns/
+models/*.keras
+models/champion_savedmodel/
+*.h5
+*.db
+__pycache__/
